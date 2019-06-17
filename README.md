@@ -3,6 +3,7 @@ Tool to study sentiment vs colaboration in software repos from github
 
 # Setup
 ## install requeriments by:
+### create a Graphs Folder
 */usr/bin/pip install --user -r requirements.txt*
 
 # Usage
