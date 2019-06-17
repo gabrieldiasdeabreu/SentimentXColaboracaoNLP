@@ -5,7 +5,7 @@
 # 
 # ## Api do sentistrength
 
-# In[17]:
+# In[1]:
 
 
 '''requer plotly, pandas, requests, re e json'''
@@ -14,6 +14,7 @@ import requests
 import re
 import json as Json
 import pandas as pd
+import time
 # import matplotlib.pyplot as plt
 # import numpy as np
 
