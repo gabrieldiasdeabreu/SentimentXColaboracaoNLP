@@ -8,5 +8,7 @@ Tool to study sentiment vs colaboration in software repos from github
 
 # Usage
 ## Execute sentimentAssistentToColaborationInGit.py with:
-*python sentimentAssistentToColaborationInGit.py*
+*python Assistente_para_colaboração_em_projetos_GitHub.py <Project name> <github id> <github password>* 
+
+*python Assistente_para_colaboração_em_projetos_GitHub.py tensorflow YOUR_GITHUB_ID <YOUR_GITHUB_PASSWORD* 
 ## it will read example.json file and generate graphs in Graphs Folder in html
